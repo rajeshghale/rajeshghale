@@ -195,16 +195,6 @@ These projects are the foundation everything else was built on — deliberately 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajeshghale&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
