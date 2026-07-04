@@ -13,15 +13,15 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/rajesh-ghale"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/rajeshghale"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:ghalerajesh01234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/rajesh-ghale"><img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/rajeshghale"><img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajesh-ghale&style=flat-square&color=8b5cf6&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/rajesh-ghale?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/rajesh-ghale?style=flat-square&color=6d28d9&labelColor=1a1a2e&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=rajeshghale&style=flat-square&color=8b5cf6&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/rajeshghale?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers"/>
+<img src="https://img.shields.io/github/stars/rajeshghale?style=flat-square&color=6d28d9&labelColor=1a1a2e&label=Stars"/>
 
 </div>
 
@@ -182,12 +182,12 @@ These projects are the foundation everything else was built on — deliberately 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajesh-ghale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ghale&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshghale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshghale&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-ghale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshghale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -198,7 +198,7 @@ These projects are the foundation everything else was built on — deliberately 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajesh-ghale&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajeshghale&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 <br/>
@@ -208,7 +208,7 @@ These projects are the foundation everything else was built on — deliberately 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-ghale&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshghale&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9" width="95%"/>
 </div>
 
 <br/>
@@ -218,7 +218,7 @@ These projects are the foundation everything else was built on — deliberately 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rajesh-ghale/rajesh-ghale/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/rajeshghale/rajeshghale/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
 <br/>
@@ -231,9 +231,9 @@ These projects are the foundation everything else was built on — deliberately 
 
 <a href="mailto:ghalerajesh01234@gmail.com"><img src="https://img.shields.io/badge/Gmail-ghalerajesh01234%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <br/>
-<a href="https://linkedin.com/in/rajesh-ghale"><img src="https://img.shields.io/badge/LinkedIn-rajesh--ghale-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/rajeshghale"><img src="https://img.shields.io/badge/LinkedIn-rajesh--ghale-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <br/>
-<a href="https://github.com/rajesh-ghale"><img src="https://img.shields.io/badge/GitHub-rajesh--ghale-6D28D9?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/rajeshghale"><img src="https://img.shields.io/badge/GitHub-rajesh--ghale-6D28D9?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
